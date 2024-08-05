@@ -1,5 +1,6 @@
 # Data-Analysis-Project-Using-Python
 To run the notebooks, you need to have Python installed along with the necessary libraries:Numpy,Pandas,Seaborn,Matplotlib
+
 Questions solved in this project
 
 1) What type of restaurant do the majority of customers order from?
